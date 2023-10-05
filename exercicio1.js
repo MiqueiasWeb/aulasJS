@@ -3,7 +3,7 @@
 // se for morango você pode fazer vitamina de morango e se não for nem uma das duas 
 // favor escolha outra fruta.
 
-var fruta = "Banana";
+var fruta = "Morango";
 
 
 function verificarFruta(fruta){
